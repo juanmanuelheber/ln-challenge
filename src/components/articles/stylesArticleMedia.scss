@@ -1,0 +1,10 @@
+@use "../../assets/variables";
+
+.article-media-container {
+  border: 1px solid variables.$border;
+  position: relative;
+  .article-image {
+    width: 100%;
+    height: 100%;
+  }
+}

@@ -1,0 +1,70 @@
+@use "./assets/variables";
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a{
+  color: inherit;
+  text-decoration: none;
+}
+
+.text {
+  &-light {
+    color: variables.$light;
+  }
+  &-dark {
+    color: variables.$dark;
+  }
+  &-center {
+    text-align: center;
+  }
+  &-left {
+    text-align: left;
+  }
+}
+
+.container {
+  width: 100%;
+  max-width: 1260px;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+// Set classNames for column grid for each responsive size
+$cols: 12;
+@for $i from 1 through $cols {
+  .col-#{$i} {
+    flex-basis: calc((100 / ($cols/$i)) * 1%);
+  }
+  @media (min-width: 768px) {
+    @for $i from 1 through $cols {
+      .col-md-#{$i} {
+        flex-basis: calc((100 / ($cols/$i)) * 1%);
+      }
+    }
+  }
+  @media (min-width: 1920px) {
+    @for $i from 1 through $cols {
+      .col-lg-#{$i} {
+        flex-basis: calc((100 / ($cols/$i)) * 1%);
+      }
+    }
+  }
+}

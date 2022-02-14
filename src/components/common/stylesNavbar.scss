@@ -1,0 +1,33 @@
+@use '../../assets/breakpoints';
+@use '../../assets/variables';
+
+.header{
+    @media (width>breakpoints.$lg) {
+        position: sticky;
+        top: 0;
+        width: 100%;
+        background-color: variables.$background;
+        z-index: 1;
+    }
+    .navbar{
+        height: 40px;
+        padding: 0 16px;
+        border-bottom: 1px solid variables.$border;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        @media (width>breakpoints.$lg) {
+            height: 73px;
+            justify-content: center;
+            &-logo{
+                height: 30px;
+            }
+        }
+        &-logo{
+            height: 16px;
+            @media (width>breakpoints.$lg) {
+                height: 30px;
+            }
+        }
+    }
+}

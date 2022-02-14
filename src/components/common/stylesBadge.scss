@@ -1,0 +1,21 @@
+@use "../../assets/variables";
+
+.badge {
+  background-color: variables.$black;
+  padding: 4px 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  position: absolute;
+  bottom: 8px;
+  left: 8px;
+  span {
+    color: variables.$light;
+    text-transform: uppercase;
+    height: 16px;
+    font-size: 11px;
+    line-height: 16px;
+    margin: 0px 4px;
+  }
+}

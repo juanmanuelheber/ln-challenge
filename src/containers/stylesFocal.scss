@@ -1,0 +1,29 @@
+@use "../assets/variables";
+@use "../assets/breakpoints";
+
+.focal {
+  margin: 16px 0px;
+  @media (width>breakpoints.$md) {
+    padding: 16px 0px;
+    .mb-2 {
+      margin-bottom: 2rem;
+    }
+  }
+  &-left {
+    @media (width>breakpoints.$md) {
+      .card-foco {
+        border-right: 1px solid variables.$border;
+      }
+    }
+  }
+  &-right {
+    & > .row {
+      flex-direction: row-reverse;
+    }
+    @media (width>breakpoints.$md) {
+      .card-foco {
+        border-left: 1px solid variables.$border;
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+@use "../../assets/variables";
+@use "../../assets/breakpoints";
+
+.card {
+  color: variables.$dark;
+  display: flex;
+  flex-direction: column;
+  @media (width>breakpoints.$md) {
+    padding: 0px 16px;
+  }
+  &.reverse{
+    @media (width>breakpoints.$md) {
+      flex-direction: column-reverse;
+      padding: 0px 16px;
+    }
+  }
+  .article-body {
+    margin: 0 0 16px;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: -0.2px;
+    @media (width<breakpoints.$md) {
+      padding: 8px 16px;
+    }
+  }
+  &-autor {
+    height: 100%;
+    padding: 0 16px;
+    .article-body {
+      padding: 1rem;
+      height: 100%;
+      text-align: center;
+      border: 1px solid variables.$border;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+  }
+}

@@ -1,0 +1,16 @@
+@use "../../assets/variables";
+
+.avatar-container {
+  margin: 8px 0;
+  .avatar-image {
+    width: 80px;
+    height: 80px;
+    margin: 8px 0px;
+    border: 1px solid variables.$border;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+  }
+}

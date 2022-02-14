@@ -1,0 +1,155 @@
+{
+    "fullArticle": {
+        "title":"Goya 2022: ganó la favorita en una gala con pocas emociones", 
+        "lead":"Cine", 
+        "subhead":"El buen patrón se llevó el premio a la mejor película en la gala más importante del cine de habla hispana; también ganó su protagonista, Javier Bardem. Madres paralelas se quedó con las manos vacías: ocho nominaciones y ningún éxito", 
+        "image":"https://resizer.glanacion.com/resizer/KeQLN96Ddg-R9pt3H3qRij_3lpQ=/879x586/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/HADRGUES6ZHJ3PCPSTBF6IB5VU", 
+        "marquee":"Javier Bardem y Penélope Cruz en la gala de los Goya 2022", 
+        "author": {"name": "Marcelo Stiletano", "profile": "https://resizer.glanacion.com/resizer/ifH2T_YQDfv1Zuz7WsF9ZpCRQbc=/280x0/filters:format(webp):quality(80)/s3.amazonaws.com/arc-authors/lanacionar/2089283.png"}, 
+        "badge":"Cine"},
+    "dataDummy":[
+        {
+            "section": "Deportes",
+            "slug": "deportes",
+            "renderDisplay": "focal",
+            "showSectionTitle": true,
+            "linkToSection": true,
+            "articles": [
+                {"title":"Boca ganaba con gol de Benedetto, pero se relajó y Colón se lo empató sobre la hora", 
+                    "lead":"1-1 en la Bombonera", 
+                    "subhead":"En su regreso al club de la Ribera, Darío Benedetto, de cabeza, marcó el 1 a 0; pudo definirlo, no lo hizo y el Sabalero llegó al 1 a 1 cerca del final, luego de una genialidad del Pulga Rodríguez que aprovechó Beltrán", 
+                    "image":"https://resizer.glanacion.com/resizer/A1Vray2lrSL8H1D5w4Z4Yg2ymGM=/879x586/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/YXJ5B4XAR5H4PIGHUUCAYQI3JY.jpg", 
+                    "marquee":"Boca vs Colon", 
+                    "author": {"name": "Valeria Nevado", "profile": "https://randomuser.me/api/portraits/thumb/women/1.jpg"}, 
+                    "badge":"Fútbol"},
+                {"title":"Ruud venció a Schwartzman y demostró su categoría en el Argentina Open", 
+                    "lead":"Campeón y Top 10", 
+                    "subhead":"El noruego, número 8 del mundo, ganó su segundo ATP porteño; el Peque defendía el título", 
+                    "image":"https://resizer.glanacion.com/resizer/hBW9CqFkfbfNn2Ds3RXFH5TdYJI=/360x240/filters:format(webp):quality(80):focal(547x298:557x288)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/FCRUJUEIJZBPLMF2CP4NSCW45E.jpg", 
+                    "marquee":"Ruup vs Schwartzman", 
+                    "author": {"name": "Carmen Olivares", "profile": "https://randomuser.me/api/portraits/thumb/women/2.jpg"}},
+                {"title":"El triple que convirtió a LeBron James en el mayor anotador de la historia", 
+                    "lead":"Impresionante", 
+                    "subhead":"Superó a Kareem Abdul-Jabbar", 
+                    "image":"https://resizer.glanacion.com/resizer/_QRsU57-W5e3WMFaTbGE2bO-SoU=/879x586/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/ML3W5BO2FZGBPGC32YDMODEUE4.JPG", 
+                    "marquee":"LeBron James", 
+                    "author": {"name": "Uxia Castilla", "profile": "https://randomuser.me/api/portraits/thumb/women/3.jpg"},
+                    "badge":"Basquet"}
+            ]
+        },
+        {
+            "section": "Economía",
+            "slug": "economia",
+            "renderDisplay": "notes-x2",
+            "showSectionTitle": true,
+            "linkToSection": true,
+            "articles": [
+                {"title":"Francia consolida un plan para declarar su independencia de las energías de fuentes fósiles", 
+                    "lead":"Más plantas nucleares", 
+                    "subhead":"El país desarrollará un programa para que haya más generadores atómicos; así lo anunció Macron, quien busca renovar este año su mandato presidencial; cuál es la idea con respecto a las opciones renovables y cómo está el debate sobre el tema en Europa", 
+                    "image":"https://resizer.glanacion.com/resizer/wSDmi-9dZoTcQaDEyKxz6PpCeOM=/879x586/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/GT42TBMHVVE7TCYR2ZJORESGFY.JPG", 
+                    "marquee":"Emmanuel Macron, el jueves, en una planta nuclear en la localidad de Belfort", 
+                    "author": {"name": "Judit Quiroga", "profile": "https://randomuser.me/api/portraits/thumb/women/4.jpg"}, 
+                    "badge":"Mundo"},
+                {"title":"El blue subió y cerró la semana con un alza de $1,50", 
+                    "lead":"Dólar", 
+                    "subhead":"El índice elaborado por el JP Morgan se aproxima a una nueva barrera; las acciones argentinas en Wall Street operan con alzas de hasta un 8%", 
+                    "image":"https://resizer.glanacion.com/resizer/ofF_8RfJwUdxw-qnmlPIImj90Zs=/879x586/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/5KUUNA3FWFBBJINC4KIU2LA63Q.JPG", 
+                    "marquee":"El dólar blue bajó $1,50", 
+                    "author": {"name": "Ivan Alemany", "profile": "https://randomuser.me/api/portraits/thumb/men/5.jpg"}}
+            ]
+        },
+        {
+            "section": "Espectáculos",
+            "slug": "espectaculos",
+            "renderDisplay": "focal-right",
+            "showSectionTitle": true,
+            "linkToSection": false,
+            "articles": [
+                {"title":"La grieta de San Valentín: los que cantan a favor y lo que cantan en contra del festejo", 
+                    "lead":"Lanzamientos", 
+                    "subhead":"Lali, con su nueva canción, “Como tú” y Nicki y Trueno con Bizarrap, que estrenaron “Dangerous”, salieron justo antes de San Valentín para aprovechar la fecha; claro, también están sus detractores, como la sueca Tove Lo", 
+                    "image":"https://resizer.glanacion.com/resizer/BZbDZC2yqpNlPbutpS88_kYkHwM=/608x407/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/J4YY7EHETRD3BOEOCDZQZ5Q2PI.JPG", 
+                    "marquee":"'Como Tú', lo nuevo de Lali y su video junto a Malevo", 
+                    "author": {"name": "Yago Ramiro", "profile": "https://randomuser.me/api/portraits/thumb/men/6.jpg"}},
+                {"title":"Trueno sorprendió en el escenario a Nicki Nicole con un romántico gesto", 
+                    "lead":"¿Se adelantó a San Valentín?", 
+                    "subhead":"El rapero apareció en medio del show de su novia y la sorprendió con una romántica actitud, antes de que ambos cantaran juntos frente al público", 
+                    "image":"https://resizer.glanacion.com/resizer/ovA3FV8u2qcG1syntD8fcJmB0lY=/298x200/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/PNLUNUQOGJEZVLGLSUJTVV2QR4.jpg", 
+                    "marquee":"Los cantantes se subieron al escenario en Villa María y enternecieron a todos", 
+                    "author": {"name": "Ona Vicente", "profile": "https://randomuser.me/api/portraits/thumb/women/7.jpg"}},
+                {"title":"Arrancó el Cosquín Rock y volvió la presencialidad con clima de fiesta", 
+                    "lead":"Pocos protocolos", 
+                    "subhead":"Los controles son flexibles en la entrada del aeródromo de Santa María de Punilla; expectativas por el cierre de “la Mona” Jiménez este domingo", 
+                    "image":"https://resizer.glanacion.com/resizer/zv2vKKZYIh8YgkAgv7rtJLAbsQ4=/298x200/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/CQSN73DWFBEXTPDYHXS6U6BACU.jpg", 
+                    "marquee":"Cosquin Rock 2022", 
+                    "author": {"name": "Ibon Martnez", "profile": "https://randomuser.me/api/portraits/thumb/women/8.jpg"}}
+            ]
+        },
+        {
+            "section": "Salud",
+            "slug": "salud",
+            "renderDisplay": "notes-x2",
+            "showSectionTitle": true,
+            "linkToSection": true,
+            "articles": [
+                {"title":"Descubren el gen que hace especial al cerebro humano", 
+                    "lead":"Hallazgo científico", 
+                    "subhead":"Científicos hallaron el motivo por el cual los mamíferos tienen una distinción en el tamaño del órgano que controla todas las funciones", 
+                    "image":"https://resizer.glanacion.com/resizer/iHyo8JWkNELER7pMAicaSNkg7Hc=/298x200/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/EMKLHHM6ZBGBRC6MZ6MY47GXE4.jpg", 
+                    "marquee":"Científicos hallaron un gen en el cerebro", 
+                    "author": {"name": "Claudio Davila", "profile": "https://randomuser.me/api/portraits/thumb/men/9.jpg"}, 
+                    "badge":"Ciencia"},
+                {"title":"Qué síntomas produce la ansiedad y en qué se diferencia de la depresión", 
+                    "lead":"Calidad de vida", 
+                    "subhead":"Tanto la ansiedad como la depresión paralizan al individuo y son consideradas enfermedades que restan calidad de vida; son una de las principales causas de ausentismo laboral del mundo", 
+                    "image":"https://resizer.glanacion.com/resizer/QCMaASxCLGDF-AScW38JQSBEEtM=/298x200/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/OSE34HBFIVH7XACESVF2Z4MECQ.jpg", 
+                    "marquee":"Calidad de vida", 
+                    "author": {"name": "Monica Molinero", "profile": "https://randomuser.me/api/portraits/thumb/women/10.jpg"}}
+            ]
+        },
+        {
+            "section": "Opiniones",
+            "slug": "opiniones",
+            "renderDisplay": "notes-x3",
+            "showSectionTitle": true,
+            "linkToSection": false,
+            "articles": [
+                {"title":"El peronismo, una máquina de acumular poder en un paisaje desolado", 
+                    "subhead":"Al renunciar a la presidencia de la bancada peronista, Máximo Kirchner recupera para esa fuerza una de sus tradiciones distintivas: ser oficialismo y oposición a la vez", 
+                    "image":"https://resizer.glanacion.com/resizer/PqHteg8H5cTaxjsGXlV3v7E7q7k=/373x250/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/DV7DBMXOYJEE3H45NOS7YJBFTE.jpg", 
+                    "marquee":"El peronismo, oficialismo y oposición", 
+                    "author": {"name": "Montserrat Dorado", "profile": "https://randomuser.me/api/portraits/thumb/women/11.jpg"}},
+                {"title":"La clave para mejorar la calidad de vida", 
+                        "lead":"Epilepsia y desestigmatización", 
+                        "subhead":"Como cada segundo lunes de febrero, el Día Internacional de la Epilepsia es una buena oportunidad para hacer un llamamiento a la sociedad a fin de que se garanticen los derechos humanos de estos pacientes y se aliente a vivir en su máximo potencial.", 
+                        "marquee":"Marquesina", 
+                        "author": {"name": "Ioana Pozo", "profile": "https://randomuser.me/api/portraits/thumb/women/13.jpg"}},
+                {"title":"Nomofobia, un nuevo fenómeno de la era digital", 
+                    "author": {"name": "Luisa Sobrino", "profile": "https://randomuser.me/api/portraits/thumb/women/12.jpg"}}
+            ]
+        },
+        {
+            "section": "Tecnología",
+            "slug": "tecnologia",
+            "renderDisplay": "notes-x2",
+            "showSectionTitle": true,
+            "linkToSection": true,
+            "articles": [
+                {"title":"¿Cómo puedo reducir el tiempo en pantalla?", 
+                    "lead":"Adicto al celular", 
+                    "subhead":"Es tema de debate si el uso excesivo de los teléfonos inteligentes es una verdadera adicción, pero los expertos dicen que hay formas de abordar ese comportamiento", 
+                    "image":"https://resizer.glanacion.com/resizer/XQWDlBVtug366IgrJ4ffOgM9Zw0=/298x200/filters:format(webp):quality(80):focal(1206x965:1216x955)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/K74CUYQUQBCL5NHMF23D6FTZXU.jpg", 
+                    "marquee":"Adicto al celular", 
+                    "author": {"name": "Ester Heredia", "profile": "https://randomuser.me/api/portraits/thumb/women/14.jpg"}},
+                {"title":"Resident Evil 4: preparan una nueva adaptación más oscura y siniestra", 
+                    "lead":"Remake de Capcom", 
+                    "subhead":"La compañía planea renovar el título lanzado hace 17 años con una nueva propuesta ambientada con escenarios nocturnos y con la posibilidad de profundizar la trama en los personajes secundarios", 
+                    "image":"https://resizer.glanacion.com/resizer/pehd8ADVWDVv_LHesMigvXP6ybQ=/298x200/filters:format(webp):quality(80):focal(1321x407:1331x397)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/R37RLXXJWRHTVHIM4IME2B6AIA.jpeg", 
+                    "marquee":"Capcom", 
+                    "author": {"name": "Michelle Llorente", "profile": "https://randomuser.me/api/portraits/thumb/women/15.jpg"},
+                    "badge": "Videojuegos"}
+            ]
+        }
+    ]
+}
